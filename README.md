@@ -1,2 +1,2 @@
 # sigma-Demo
-this is a demo for learing the github 
+this is a demo for learning the github 
